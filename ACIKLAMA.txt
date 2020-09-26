@@ -1,0 +1,2 @@
+*  color, text varyasyonları ...................... Home1.vue 
+*  buton, icon varyasyonları ...................... Home2.vue 
